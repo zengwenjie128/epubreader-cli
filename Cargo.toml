@@ -1,5 +1,5 @@
 [package]
-name = "epub-reader"
+name = "epubreader-cli"
 version = "0.1.0"
 edition = "2021"
 description = "A terminal-based EPUB reader with vim-style keybindings"

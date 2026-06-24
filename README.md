@@ -1,4 +1,4 @@
-# epub-reader
+# epubreader-cli
 
 A terminal-based EPUB reader built with [ratatui](https://github.com/ratatui-org/ratatui).
 
@@ -38,7 +38,7 @@ epub-reader <file.epub>
 ## Installation
 
 ```bash
-cargo install --path .
+cargo install epubreader-cli
 ```
 
 This builds in release mode and installs the binary to `~/.cargo/bin/`, which is already on your PATH if you have Rust installed. Works on Linux, macOS, and Windows.
@@ -46,7 +46,7 @@ This builds in release mode and installs the binary to `~/.cargo/bin/`, which is
 To uninstall:
 
 ```bash
-cargo uninstall epub-reader
+cargo uninstall epubreader-cli
 ```
 
 ## Dependencies
